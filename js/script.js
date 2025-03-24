@@ -1,3 +1,4 @@
+
 function isPalindroma(parola){
     check = parola.split("").reverse("").join("");
     if(check === parola){
